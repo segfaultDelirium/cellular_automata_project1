@@ -25,3 +25,7 @@
 .visible{
     visibility: visible;
 }
+
+#new-rule{
+  width: 600px;
+}

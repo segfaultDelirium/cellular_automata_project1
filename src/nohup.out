@@ -1,0 +1,18 @@
+
+(mullvadbrowser:1470977): Gtk-WARNING **: 16:34:42.121: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.info: SecurityLevel: Listening for messages from NoScript.
+console.info: SecurityLevel: Initializing security-prefs.js
+console.info: SecurityLevel: security-prefs.js initialization complete
+console.error: ({})
+console.log: "Clipboard changed: private true, hash llWY2qw4AYVnx9sj9IEhelxJOKS0T1tQdAg0y1x+Qxs=."
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/ts-built/main.js") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/main.js") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+
+(mullvadbrowser:1471301): Gtk-WARNING **: 16:35:37.401: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.info: SecurityLevel: Listening for messages from NoScript.
+console.info: SecurityLevel: Initializing security-prefs.js
+console.info: SecurityLevel: security-prefs.js initialization complete
+console.error: ({})
+console.log: "Clipboard changed: private true, hash llWY2qw4AYVnx9sj9IEhelxJOKS0T1tQdAg0y1x+Qxs=."

@@ -3,3 +3,31 @@
 
 (firefox:12543): Gtk-WARNING **: 14:30:41.107: Locale not supported by C library.
 	Using the fallback 'C' locale.
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/package.json") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/package.json") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/tsconfig.json") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/tsconfig.json") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/src/DistanceMatrix.ts") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/src/DistanceMatrix.ts") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/src/Djikstra.ts") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/src/Djikstra.ts") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/src/Generators.ts") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/src/Generators.ts") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/src/common.ts") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/src/common.ts") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/src/drawing.ts") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/src/drawing.ts") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/src/graphCenter.ts") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/src/graphCenter.ts") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/src/main.ts") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/src/main.ts") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/src/minimalSpanningTree.ts") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/src/minimalSpanningTree.ts") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/src/classes/Edge.ts") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/src/classes/Edge.ts") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/src/classes/GraphNode.ts") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/src/classes/GraphNode.ts") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/src/classes/Point.ts") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/src/classes/Point.ts") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///home/coean/0/dev/js/canvasGraphs/src/classes/VisibleGraph.ts") to QUrl("file:///home/coean/0/dev/js/cellular_automata_project1/src/classes/VisibleGraph.ts") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
