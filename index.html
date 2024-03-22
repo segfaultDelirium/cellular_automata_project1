@@ -1,0 +1,40 @@
+<!-- // poczatkowy stan losowy
+guziki sterujace animacja
+reset, start, stop, wykonaj jeden krok czasowy
+
+
+(2, 2) -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Website</title>
+    <link rel="stylesheet" href="./style.css">
+    <!-- <link rel="icon" href="./favicon.ico" type="image/x-icon"> -->
+  </head>
+  <body>
+    <!-- <canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+    </canvas> -->
+    <div id="controls">
+        <button type="button" onclick="reset()">reset</button>
+        <button type="button" onclick="start()">start</button>
+        <button type="button" onclick="pause()">pause</button>
+        <button type="button" onclick="step()">step</button>
+        <div id="rule"></div>
+
+        <div>
+            <label>new rule:</label>
+            <input type="text" id="new-rule">
+            <button type="button" onclick="updateRule()">update rule</button>
+            <span id="error-message" class="hidden"></span>
+            
+        </div>
+    </div>
+    <div id="grid"></div>
+
+	<script src="index.js"></script>
+  </body>
+</html>

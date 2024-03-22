@@ -1,0 +1,5 @@
+[12543, Main Thread] WARNING: Locale not supported by C library.
+	Using the fallback 'C' locale.: 'glib warning', file /usr/src/debug/firefox/firefox-124.0/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:12543): Gtk-WARNING **: 14:30:41.107: Locale not supported by C library.
+	Using the fallback 'C' locale.
